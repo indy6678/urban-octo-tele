@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* add style to body */
 body {
     background-color: #d9dcd6;
 }
@@ -25,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* add style to div in header */
 header div {
     padding-top: 15px;
     margin-right: 20px;
