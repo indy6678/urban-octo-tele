@@ -12,7 +12,7 @@ An effort was made to improve the overall code. There was missing code and comme
 
 ## Credits
 
-[Microsoft](https://github.com/microsoft/vscode#readme)
+[Microsoft](https://github.com/microsoft/vscode#readme) <br>
 [GitHub](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) <br>
 [Coding Boot Camp](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) <br>
 [Choose A License](https://choosealicense.com/)
